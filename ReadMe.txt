@@ -82,3 +82,5 @@ Thank You/Let’s Connect:
 LinkedIn: http://www.linkedin.com/in/
 Git hub: https://github.com/Tanu272004
 Website: https://tanmayportfolio52.wordpress.com/
+Blob : https://predictive-healthcare-insights.hashnode.dev/predictive-healthcare-insights
+
